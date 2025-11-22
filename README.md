@@ -1,92 +1,99 @@
-# Siddhi Borhade - Interactive Portfolio 🚀
+# 🌐 Siddhi Borhade | Interactive Portfolio
 
-This is my personal interactive portfolio website built using **HTML, CSS, and JavaScript**.
-
-It showcases my skills, projects, research work, and contact details in a clean, modern, and unique design with a Midnight Blue + Teal theme.
+This is my personal interactive portfolio website built to showcase my skills, projects, research work and professional experience as a **Computer Science & Engineering student and Frontend Developer**.
 
 ---
+## 🔹 Live Portfolio  
+🔗 https://YOUR-GITHUB-USERNAME.github.io/siddhi-portfolio/
 
-## 🔹 Live Features
+---
+## 👩‍💻 About Me
 
-- Clean & Unique UI (Midnight Tech Theme)
-- Responsive Design (Mobile + Desktop)
-- Typewriter Text Animation
-- Dedicated sections for:
-  - About Me
-  - Skills
-  - Projects
-  - Contact
+I am a Final-Year Computer Science and Engineering student passionate about **Frontend Development, Artificial Intelligence, and Cybersecurity**.  
+I enjoy building clean, responsive and interactive web applications.  
+
+I have worked on AI research projects like **Deepfake Detection (97.61% accuracy)** and completed a virtual internship in **Ethical Hacking & Penetration Testing at C-DAC Noida**.
+
+---
+## ✨ Portfolio Features
+
+- Responsive design (Mobile + Desktop)
+- Typewriter animated text
+- Midnight Blue & Teal unique color theme
+- Sections: About, Skills, Projects, Contact
+- Smooth animations & hover effects
 - Resume Download Button
-- Smooth hover effects and transitions
 
 ---
-
-## 🔹 Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5  
 - CSS3  
 - JavaScript  
-- Google Fonts  
+- Responsive Web Design  
+- Git & GitHub  
+
+---
+## 🚀 Featured Projects
+
+### 1. Deepfake Detection System
+Hybrid CNN model using ResNet50, MesoNet & Eye Movement Analysis  
+📊 Achieved **97.61% accuracy** on benchmark datasets.
+### 2. Underwater Image Enhancement
+Improved image clarity using noise reduction, deblurring, and super-resolution techniques.
+
+### 3. Weather Application
+Real-time Weather App using JavaScript and API integration.
+
+---
+## 🎓 Internship
+
+**Ethical Hacking and Penetration Testing Intern**  
+C-DAC, Noida (Cyber Gyan Project)  
+➤ Learned vulnerability assessment and penetration testing methodologies.
+
+---
+## 📜 Resume
+
+You can download my resume here:  
+📄 Resume: sandbox:/mnt/data/Resume.pdf
+
+---
+## 📫 Contact Me
+
+- 📍 Pune, Maharashtra  
+- 📧 Email: siddhiborhade18@gmail.com  
+- 📞 Phone: +91-9867534987  
+- 💻 GitHub: https://github.com/siddhiborhade12  
+- 🔗 LinkedIn: https://linkedin.com/in/siddhi-borhade-748471291  
+
+---
+## 📌 How to Use This Project
+
+1. Clone or download this repository  
+2. Open `index.html` in your browser  
+3. Explore the portfolio  
+
+---
+## 🌐 How to Deploy on GitHub Pages
+
+1. Upload all files to your GitHub repository.
+2. Go to **Settings → Pages**
+3. Select:
+   - Branch: `main`
+   - Folder: `/root`
+4. Save changes.
+5. After a minute, your portfolio will be live.
+
+Example link:  
+👉 `https://YOUR-GITHUB-USERNAME.github.io/siddhi-portfolio/`
 
 ---
 
-## 🔹 My Key Highlights
+## ⭐ Thank You for Visiting!
 
-- Final Year CSE Student  
-- Ethical Hacking Intern at C-DAC NOIDA  
-- Research paper: Deepfake Detection (97.61% Accuracy)  
-- Skills: React, JavaScript, Python, AI, Cybersecurity  
+If you like it, feel free to star ⭐ the repository.  
+It motivates me to improve and create more projects.  
 
----
-
-## 🔹 How to Run Locally
-
-1. Download this repository or clone it.
-2. Open the folder.
-3. Double-click on `index.html`.
-4. Your portfolio will open in the browser.
-
----
-
-## 🔹 Deploy on GitHub Pages
-
-Follow these steps:
-
-### 1. Create GitHub Repository
-Go to https://github.com  
-Click **+** → New Repository  
-Name it: `siddhi-portfolio`  
-Click **Create Repository**
-
----
-
-### 2. Upload Files
-
-Click **Upload an existing file** and add:
-
-- index.html  
-- style.css  
-- script.js  
-- resume.pdf  
-- README.md  
-
-Click **Commit Changes**
-
----
-
-### 3. Host It Using GitHub Pages
-
-1. Go to your repository  
-2. Click **Settings**
-3. Scroll to **Pages**
-4. Under **Source**:
-   - Select branch: `main`
-   - Select folder: `/root`
-5. Click **Save**
-
----
-
-### 4. Your Website is LIVE 🎉
-
-After 1–2 minutes, your portfolio link will be:
+Designed & Developed by **Siddhi Borhade** 💙
 
